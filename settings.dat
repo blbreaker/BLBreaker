@@ -1,0 +1,4 @@
+login = "dev"
+password = "dev"
+version = "1.10.0"
+interval = "0.03"
